@@ -1,7 +1,8 @@
 <style>
 h1{font-weight: bolder;border:1px solid black;
-   	background-color:lightblue
+   	color:aqua
    	margin-left:auto;margin-right: auto}
-
+ p{font-size: 20pt color:olive; margin-left:10% margin-right:10%;background-color: aqua}
+img{float: left;margin: 10px 10px 10px 10px}
 
 </style>
