@@ -2,6 +2,6 @@
 h1{font-weight: bolder;
 	color: #808000;
    	margin-left:auto;margin-right: auto}
- p{font-size: 20pt ; margin-left:10% margin-right:10%;background-color: #CDB79E}
+ p{border:1px solid black;font-size: 15pt ; margin-left:10% margin-right:10%;background-color: #CDB79E}
 img{float: left;margin: 10px 10px 10px 10px}
 
